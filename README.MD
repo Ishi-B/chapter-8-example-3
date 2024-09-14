@@ -7,3 +7,5 @@ In chapter 8 we create a continuous delivery pipeline for microservices and infr
 This example contains an automated continous delivery pipeline that builds and deploys the microservice to Kubernetes when code is pushed to the repository.
 
 [Click here to support my work](https://www.codecapers.com.au/about#support-my-work)
+
+initial update
